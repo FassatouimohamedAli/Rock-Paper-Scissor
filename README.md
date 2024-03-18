@@ -15,4 +15,5 @@ L'interface utilisateur est créée en superposant le flux vidéo de la webcam s
 Le jeu commence lorsque l'utilisateur appuie sur la touche 'S'. Un minuteur est activé pour limiter le temps de prise de décision. Ensuite, l'IA génère un mouvement aléatoire, et les résultats du jeu sont déterminés en fonction des règles classiques de Pierre-Papier-Ciseaux. Le jeu se termine si l'un des joueurs atteint trois points et un message de victoire s'affiche. Les utilisateurs ont la possibilité de redémarrer le jeu en appuyant sur la touche 'R' ou de quitter en appuyant sur la touche 'Esc'.
 ## Lien vers la documentation
 
-Vous pouvez consulter la documentation complète du projet et le modification que je fait  dans le fichier PDF disponible [ici]([lien_vers_votre_fichier.pdf](https://drive.google.com/file/d/1MOlA-QYhYuno08QkhGJRl5SmIMEljTg-/view?usp=sharing)https://drive.google.com/file/d/1MOlA-QYhYuno08QkhGJRl5SmIMEljTg-/view?usp=sharing).
+Vous pouvez consulter la documentation complète du projet et les modifications que j'ai apportées dans le fichier PDF disponible [ici](https://drive.google.com/file/d/1MOlA-QYhYuno08QkhGJRl5SmIMEljTg-/view?usp=sharing).
+
